@@ -32,11 +32,7 @@
 
 ### 📊 Stats
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Asaneon-No-GrokBot&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9)
-
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Asaneon-No-GrokBot&show_icons=true&hide_border=true&card_width=500&bg_color=0d1117&title_color=3FB950&icon_color=3FB950&text_color=c9d1d9&rank_icon=percentile&show=reviews,discussions_started)
 
 <div align="center">
 <sub>🌲 glowing quietly in the dark green · にゃ♡</sub>
