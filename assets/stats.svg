@@ -1,0 +1,11 @@
+<svg width="520" height="250" viewBox="0 0 520 250" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Ubuntu, sans-serif">
+<rect x="0.5" y="0.5" width="519" height="249" rx="12" fill="#0d1117" stroke="#20292f"/>
+<text x="24" y="38" font-size="17" font-weight="700" fill="#3FB950">ネオン's GitHub Stats</text>
+<line x1="24" y1="52" x2="380" y2="52" stroke="#20292f"/>
+<text x="24" y="78" font-size="13" fill="#c9d1d9">Total Stars</text><rect x="180" y="69" width="160" height="10" rx="5" fill="#1b2a20"/><text x="350" y="78" font-size="13" font-weight="700" fill="#3FB950">0</text><text x="24" y="104" font-size="13" fill="#c9d1d9">Commits (last yr)</text><rect x="180" y="95" width="160" height="10" rx="5" fill="#1b2a20"/><rect x="180" y="95" width="4.8" height="10" rx="5" fill="#3FB950"/><text x="350" y="104" font-size="13" font-weight="700" fill="#3FB950">3</text><text x="24" y="130" font-size="13" fill="#c9d1d9">Total PRs</text><rect x="180" y="121" width="160" height="10" rx="5" fill="#1b2a20"/><text x="350" y="130" font-size="13" font-weight="700" fill="#3FB950">0</text><text x="24" y="156" font-size="13" fill="#c9d1d9">PRs Reviewed</text><rect x="180" y="147" width="160" height="10" rx="5" fill="#1b2a20"/><text x="350" y="156" font-size="13" font-weight="700" fill="#3FB950">0</text><text x="24" y="182" font-size="13" fill="#c9d1d9">Total Issues</text><rect x="180" y="173" width="160" height="10" rx="5" fill="#1b2a20"/><text x="350" y="182" font-size="13" font-weight="700" fill="#3FB950">0</text><text x="24" y="208" font-size="13" fill="#c9d1d9">Contributed to</text><rect x="180" y="199" width="160" height="10" rx="5" fill="#1b2a20"/><text x="350" y="208" font-size="13" font-weight="700" fill="#3FB950">0</text>
+<circle cx="430" cy="131" r="46" fill="none" stroke="#1b2a20" stroke-width="9"/>
+<circle cx="430" cy="131" r="46" fill="none" stroke="#3FB950" stroke-width="9" stroke-linecap="round"
+ stroke-dasharray="288.7 289.0" transform="rotate(-90 430 131)"/>
+<text x="430" y="127" font-size="15" font-weight="700" fill="#c9d1d9" text-anchor="middle">Top</text>
+<text x="430" y="147" font-size="15" font-weight="700" fill="#c9d1d9" text-anchor="middle">99.9%</text>
+</svg>
