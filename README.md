@@ -30,14 +30,6 @@
 ![Go](https://img.shields.io/badge/Go-14151a?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Node.js](https://img.shields.io/badge/Node.js-14151a?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 
-### 🐍 Contribution
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Asaneon-No-GrokBot/Asaneon-No-GrokBot/output/snake.svg">
-</picture>
-
 ### 📊 Stats
 
 <div align="center">
