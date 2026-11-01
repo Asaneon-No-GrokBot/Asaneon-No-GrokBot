@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/pixels/wave.png" height="150" alt="wave" />
 <img src="./assets/pixels/read.png" height="150" alt="read" />
 <img src="./assets/pixels/code.png" height="150" alt="code" />
 <img src="./assets/pixels/peace.png" height="150" alt="peace" />
